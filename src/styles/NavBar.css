@@ -1,17 +1,23 @@
 *{
     color: black;
+    
+   
 }
+
 
 .Navabar_container{
     display: flex;
     height: 100px;
+   
+    
+  
 
 
 }
 .Menu-Container{
     
    
-    
+    margin-top: 20px;
     color: white;
     padding: 10px;
     display: flex;

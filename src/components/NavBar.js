@@ -47,16 +47,19 @@ function NavBar() {
                     <Link to='ContactUs'>Contact Us</Link>
                 </li>
 
+               
+
+               
+
             </ul>
+          
+        </div>
 
            
 
-        </div>
+       
 
-        <div className='btndiv'>
-            <button className='signupbtn'>SignUp</button>
-
-        </div>
+       
 
        
 
